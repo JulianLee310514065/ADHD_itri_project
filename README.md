@@ -4,19 +4,19 @@
 
 ## 🌟 核心服務
 
-### 🎤 CosyVoice 語音複製系統
+### 🎤 [CosyVoice 語音複製系統](https://github.com/JulianLee310514065/ADHD_itri_project/blob/main/README_cosy.md)
 基於 CosyVoice2 的高品質語音克隆和語音合成系統
 - **功能**: 語音特徵提取、語音合成、音色保存載入
 - **端口**: 前端 8492, 後端 7500
 - **特色**: 支援多語言、高保真語音克隆、Web界面操作
 
-### 🎧 Whisper 語音轉文字系統  
+### 🎧 [Whisper 語音轉文字系統](https://github.com/JulianLee310514065/ADHD_itri_project/blob/main/README_whisper.md)  
 基於 OpenAI Whisper 的多格式語音轉文字系統
 - **功能**: 音頻/視頻轉文字、時間軸標記、繁體中文輸出
 - **端口**: 前端 8496, 後端 8799
 - **特色**: 支援多種格式、自動簡繁轉換、隊列處理
 
-### 🖼️ Rembg 圖片去背系統
+### 🖼️ [Rembg 圖片去背系統](https://github.com/JulianLee310514065/ADHD_itri_project/blob/main/README_rembg.md)
 基於 BiRefNet 的智慧圖片背景去除系統
 - **功能**: 自動圖片去背、批次處理、API調用
 - **端口**: 前端 8495, 後端 7000
